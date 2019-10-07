@@ -6,3 +6,4 @@ Git has a mutable index called stage
 add first
 add second
 git branch test
+Creating a new branch is quick & simple.
