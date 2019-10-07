@@ -7,3 +7,4 @@ add first
 add second
 git branch test
 Creating a new branch is quick and simple.这是完全改变的
+git add merge
